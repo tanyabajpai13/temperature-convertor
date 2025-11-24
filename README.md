@@ -24,11 +24,11 @@ scale (c, f, or k), and the output scale (c, f, or k). According to
 these inputs, the program performs the appropriate conversion using
 standard temperature conversion formulas:
 
-\- Celsius to Fahrenheit: (C×9\5)+32 
-\- Fahrenheit to Celsius:(F−32)×5\9 
-\- Celsius to Kelvin: C+273.15
+\- Celsius to Fahrenheit: (c×9\5)+32 
+\- Fahrenheit to Celsius:(f−32)×5\9 
+\- Celsius to Kelvin: c+273.15
 
-\- Kelvin to Celsius: K−273.15
+\- Kelvin to Celsius: k−273.15
 
 \- Fahrenheit to Kelvin and Kelvin to Fahrenheit conversions are
 calculated via intermediate Celsius conversions.
